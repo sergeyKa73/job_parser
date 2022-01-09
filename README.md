@@ -1,1 +1,2 @@
-# job_parser-
+# job parser
+*получаем вакансии c HH*
